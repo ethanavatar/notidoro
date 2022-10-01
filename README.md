@@ -10,6 +10,7 @@ A command line Pomodoro timer that sends desktop notifications on each interval.
 ## TODO List
 
 - [ ] Add a noise to the notifications
+- [ ] Make total hours optional and add buttons on the break notification to add another rep
 - [ ] Properly format time in logs and notifications
     - [ ] Use a logging library
     - [ ] [Maybe] switch to `chrono` for time
