@@ -14,6 +14,7 @@ A command line Pomodoro timer that sends desktop notifications on each interval.
     - [ ] Use a logging library
     - [ ] [Maybe] switch to `chrono` for time
 - [ ] Add a config file
+- [ ] [Maybe] custom notification messages
 
 ## Installation
 
