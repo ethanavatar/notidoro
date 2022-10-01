@@ -1,6 +1,6 @@
 # notidoro
 
-A command line pomodoro timer that sends desktop notifications on each interval.
+A command line Pomodoro timer that sends desktop notifications on each interval.
 
 ## Contents
 - [TODO List](#todo-list)
