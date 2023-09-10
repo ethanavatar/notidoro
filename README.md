@@ -8,10 +8,9 @@ A command line Pomodoro timer that sends desktop notifications on each interval.
 
 ## Installation
 
+After installing Rust via [rustup](https://rustup.rs/). You can install using cargo:
 ```bash
-$ git clone https://github.com/ethanavatar/notidoro.git
-$ cd notidoro
-$ cargo install --path .
+$ cargo install notidoro --git https://github.com/ethanavatar/notidoro.git
 ```
 
 ## Usage
