@@ -1,21 +1,10 @@
 # notidoro
 
-A command line Pomodoro timer that sends desktop notifications on each interval.
+A command line Pomodoro timer that sends desktop notifications on each interval. This program was made for practice purposes and was not intended to be used. Feel free to use the idea for your own project
 
 ## Contents
-- [TODO List](#todo-list)
 - [Installation](#installation)
 - [Usage](#usage)
-
-## TODO List
-
-- [ ] Add a noise to the notifications
-- [ ] Make total hours optional and add buttons on the break notification to add another rep
-- [ ] Properly format time in logs and notifications
-    - [ ] Use a logging library
-    - [ ] [Maybe] switch to `chrono` for time
-- [ ] Add a config file
-- [ ] [Maybe] custom notification messages
 
 ## Installation
 
